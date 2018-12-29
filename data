@@ -1,0 +1,38 @@
+ <BarChart
+          // data={
+          //   {
+          //     dataSets: [
+          //       {
+          //         label:'Task area / activity', values:[{ y: 10 },{ y: 20 },{ y: 30 }],
+          //         config: {
+          //           color: 'orange',
+          //           // barShadowColor: processColor('lightgrey'),
+          //           // highlightAlpha: 90,
+          //           // highlightColor: processColor('red'),
+          //         },
+          //       },
+          //
+          //       {
+          //         label:'Arbeitszeitbelastung', values:[{ y: 15} , {y:25}]
+          //         config: {
+          //           color: 'green',
+          //           // barShadowColor: processColor('lightgrey'),
+          //           // highlightAlpha: 90,
+          //           // highlightColor: processColor('red'),
+          //         },
+          //       },
+          //       // {
+          //       //   label:'Working equipment', values:[{x:3,y:4}]
+          //       // },
+          //       // {
+          //       //   label:'Health', values:[{x:3,y:4}]
+          //       // },
+          //       // {
+          //       //   label:'Professional training', values:[{x:3,y:4}]
+          //       // }
+          //     ]
+          //   }
+          // }
+          drawGridBackground={false}
+          style={{width:300,flex:1,height:100}}
+        />
